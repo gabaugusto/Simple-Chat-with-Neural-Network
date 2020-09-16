@@ -2,11 +2,20 @@
 
 Simple Chat with Neural Network (TensorFlow and TFLearn)
 
-TensorFlow is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks. It is used for both research and production at Google.
+__TensorFlow__ is a free and open-source software library for dataflow and differentiable programming across a range of tasks. It is a symbolic math library, and is also used for machine learning applications such as neural networks. It is used for both research and production at Google.
 
-TensorFlow makes it easy for beginners and experts to create machine learning models for desktop, mobile, web, and cloud.
+__TensorFlow__ makes it easy for beginners and experts to create machine learning models for desktop, mobile, web, and cloud.
 
-There are other projects on my repositories using Tensorflow
+There are other projects on my repositories using __Tensorflow__.
+
+# Chat utilizando redes neurais
+Chat básico com rede neural (TensorFlow e TFLearn)
+
+O __TensorFlow__ é uma biblioteca de software gratuita e de código aberto para fluxo de dados e programação diferenciável em uma variedade de tarefas. É uma biblioteca matemática simbólica e também é usada para aplicativos de aprendizado de máquina, como redes neurais. Ele é usado para pesquisa e produção no Google.
+
+O __TensorFlow__ torna mais fácil para iniciantes e especialistas criar modelos de aprendizado de máquina para desktop, celular, Web e nuvem.
+
+Existem outros projetos em meus repositórios utlizando __Tensorflow__.
 
 ## Getting Started
 
